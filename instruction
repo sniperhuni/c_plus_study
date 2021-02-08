@@ -1,0 +1,7 @@
+compile
+
+g++ -o hello hello.cpp
+
+execute
+
+./hello
